@@ -1,0 +1,6 @@
+.metadata/
+.settings/
+src/META-INF/
+*.bak
+target/*
+*.class
